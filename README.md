@@ -9,3 +9,4 @@ step-7 ./TBomb.sh
 step-8 select call bombing
 step-9 enter the country code 
 step-10 enter the number and give the number of spam call and hit set time gap and hit enter
+The last and important thing is that this tool is only for fun not for making troubles so use wisely.
